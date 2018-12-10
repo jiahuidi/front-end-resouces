@@ -22,3 +22,7 @@
 
 ## Fonts
 - [Google Fonts](https://fonts.google.com/)
+
+
+## HTTP Status Codes
+- https://httpstatuses.com/ an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
