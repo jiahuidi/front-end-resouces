@@ -24,6 +24,10 @@
 ## Fonts
 - [Google Fonts](https://fonts.google.com/)
 
+## Libraries
+- Animation: 
+  - [Popmotion](https://popmotion.io/)
+  - [Animate.css](https://daneden.github.io/animate.css/)
 
 ## HTTP Status Codes
 - https://httpstatuses.com/ an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
